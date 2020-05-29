@@ -1,20 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "teamyeet",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Electron Wrapper around the Teamwork Website ",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/donutsahoy/teamyeet",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Teamwork",
+    "Teamyeet",
+    "simple"
   ],
-  "author": "GitHub",
+  "author": "donutsahoy",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^9.0.0"
